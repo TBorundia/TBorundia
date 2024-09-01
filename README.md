@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there👋, I'm <a href="https://www.linkedin.com/in/tina-borundia-274673260/">Tina Borundia</a> </h1>
+<h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/tina-borundia-274673260/">Tina Borundia</a> </h1>
 
 # 🪶 GSSOC(24) Badges:
 
