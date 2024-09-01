@@ -12,6 +12,12 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="85px" height="85px" /></a>
 </div>
 
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=TBorundia&theme=darkhub&no-frame=false&no-bg=false&margin-w=15)
+
+
+
 # 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=TBorundia&abbreviated=true) <br/>
 <a href="https://github.com/TBorundia">
@@ -19,9 +25,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TBorundia&background=30,e96443,904e95&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)<br/>
 </a>
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=TBorundia&theme=darkhub&no-frame=false&no-bg=false&margin-w=15)
 
 
 <!--
