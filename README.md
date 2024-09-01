@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there👋, I'm <a href="https://www.linkedin.com/in/tina-borundia-274673260/">Tina Borundia</a> </h1>
 
-## GSSOC(24) Badges 🪶:
+# GSSOC(24) Badges 🪶:
 
 <div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="85px" height="85px" />
@@ -15,10 +15,11 @@
 # 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=TBorundia&abbreviated=true) <br/>
 <a href="https://github.com/TBorundia">
-![](https://github-readme-stats.vercel.app/api?username=TBorundia&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=TBorundia&theme=blue-green&hide_border=true)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TBorundia&theme=blue_green&utcOffset=8)
+![](https://github-readme-stats.vercel.app/api?username=TBorundia&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=TBorundia&background=30,e96443,904e95&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TBorundia&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&utcOffset=8)
 </a>
+
 
 <!--
 Here are some ideas to get you started:
