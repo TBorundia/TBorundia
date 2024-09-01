@@ -19,6 +19,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TBorundia&background=30,e96443,904e95&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)<br/>
 </a>
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=TBorundia&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 <!--
 Here are some ideas to get you started:
