@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there👋, I'm <a href="https://www.linkedin.com/in/tina-borundia-274673260/">Tina Borundia</a> </h1>
 
-# GSSOC(24) Badges 🪶:
+# 🪶 GSSOC(24) Badges:
 
 <div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="85px" height="85px" />
@@ -12,7 +12,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="85px" height="85px" /></a>
 </div>
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=TBorundia&theme=darkhub&no-frame=false&no-bg=false&margin-w=15)
 
