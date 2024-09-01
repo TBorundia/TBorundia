@@ -16,7 +16,6 @@
 ![](https://komarev.com/ghpvc/?username=TBorundia&abbreviated=true) <br/>
 <a href="https://github.com/TBorundia">
 ![](https://github-readme-stats.vercel.app/api?username=TBorundia&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TBorundia&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TBorundia&theme=blue-green&hide_border=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TBorundia&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TBorundia&theme=blue_green)
