@@ -39,6 +39,8 @@
   <a href="mailto:tinaborundia23@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
+
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
