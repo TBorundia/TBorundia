@@ -15,7 +15,7 @@
 </div>
 
 # Hacktober Fest 2024:
-  <img src="https://holopin.me/TBorundia" height="300px" />
+  <img src="https://holopin.me/tborundia height="300px" />
 
 # 🏆 GitHub Trophies:
 
