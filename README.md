@@ -14,6 +14,9 @@
 </div>
 </div>
 
+# Hacktober Fest 2024:
+  <img src="https://holopin.me/TBorundia" height="300px" />
+
 # 🏆 GitHub Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=TBorundia&theme=darkhub&no-frame=false&no-bg=false&margin-w=15)
