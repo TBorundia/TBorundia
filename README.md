@@ -44,6 +44,9 @@
   <a href="mailto:tinaborundia23@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
 </div>
 
+<img align="left" height="auto" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TBorundia&theme=highcontrast&hide_border=false" alt="Top Languages" />
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
 
 <!--
