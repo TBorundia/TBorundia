@@ -47,6 +47,7 @@
 </div>
 
 
+![GitHub Snake](https://github.com/TBorundia/TBorundia/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
 
