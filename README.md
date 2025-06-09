@@ -1,7 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/tina-borundia-274673260/">Tina Borundia</a> </h1>
-
 # 🪶 GSSOC(24) Badges:
-
 <div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <div style='display:flex; gap: 10px;'>
   <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" width="100px" height="100px" />
